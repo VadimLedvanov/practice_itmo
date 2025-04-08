@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="node" />
+        <module name="common-jpa" />
+        <module name="common-rabbitmq" />
+        <module name="dispatcher" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-utils" target="1.8" />
+      <module name="mail-service" target="1.8" />
+      <module name="rest-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-jpa" options="-parameters" />
+      <module name="common-rabbitmq" options="-parameters" />
+      <module name="common-utils" options="-parameters" />
+      <module name="diplom" options="" />
+      <module name="dispatcher" options="-parameters" />
+      <module name="mail-service" options="-parameters" />
+      <module name="node" options="-parameters" />
+      <module name="rest-service" options="-parameters" />
+    </option>
+  </component>
+</project>
