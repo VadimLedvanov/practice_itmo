@@ -23,7 +23,7 @@ public class View {
     @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "app_user_id", nullable = false)
     private AppUser appUser;
-    @ManyToOne(fetch = FetchType.EAGER)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     @JoinColumn(name = "event_id", nullable = false)
     private Event event;
     @Column(name="created_at", nullable = false, updatable = false)

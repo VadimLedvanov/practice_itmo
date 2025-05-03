@@ -5,7 +5,8 @@ public enum EventCategory {
     THEATER("🎭 Театр"),
     CINEMA("🎬 Кино"),
     EXHIBITION("🖼 Выставки"),
-    SPORT("⚽ Спорт");
+    BUSINESS("💼 Бизнес-встречи"),
+    TOUR("🏛️ Экскурсии");
 
     private final String category;
 

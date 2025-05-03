@@ -3,6 +3,8 @@ package ru.ledvanov.entity;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
+import org.hibernate.annotations.LazyCollection;
+import org.hibernate.annotations.LazyCollectionOption;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
@@ -24,6 +26,8 @@ public class AppUser {
     private UUID id;
     @Column(name = "telegram_user_id", unique = true, length = 50)
     private Long telegramUserId;
+    @Column(name = "chat_id")
+    private Long chatId;
     @CreationTimestamp
     @Column(name = "registration_date")
     private LocalDateTime registrationDate;
@@ -34,9 +38,11 @@ public class AppUser {
     @Column(name="username", length = 50)
     private String username;
 
-    @OneToMany(mappedBy = "appUser", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    @OneToMany(mappedBy = "appUser", cascade = CascadeType.ALL, orphanRemoval = true)
+    @LazyCollection(LazyCollectionOption.FALSE)
     private List<Favorite> favorites;
 
-    @OneToMany(mappedBy = "appUser", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @OneToMany(mappedBy = "appUser", cascade = CascadeType.ALL, orphanRemoval = true)
+    @LazyCollection(LazyCollectionOption.FALSE)
     private List<View> views;
 }

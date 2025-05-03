@@ -38,4 +38,8 @@ public class RabbitConfiguration {
     public Queue callbackEditedMessageQueue() {
         return new Queue(CALLBACK_EDITED_MESSAGE_UPDATE);
     }
+    @Bean
+    public Queue answerAlertMessageQueue() {
+        return new Queue(ANSWER_ALERT);
+    }
 }

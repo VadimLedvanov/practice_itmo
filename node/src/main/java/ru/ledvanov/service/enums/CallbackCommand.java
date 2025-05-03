@@ -8,22 +8,22 @@ public enum CallbackCommand {
     FIND_BY_CATEGORY("find_by_category"),
     CHOOSE_CATEGORY("CATEGORY_"),
     FIND_BY_VIEWS("find_by_views"),
+    NOT_VIEWED_EVENT("NOT_VIEWED_EVENT_PAGE_"),
     FIND_SOMETHING("find_something"),
     INFO("info_bot"),
-    BACK_TO_MAIN("back_to_main");
-    private String value;
+    BACK_TO_MAIN("back_to_main"),
+    RELOAD("RELOAD"),
+    DELETE_FAV("DELETE_FAV_"),
+    DELETE_EVENT("DELETE_EVENT_"),
+    CREATE_EVENT("CREATE_EVENT"),
+    USERS_ANALYTICS("USERS_ANALYTICS"),
+    ANNOUNCE("ANNOUNCE"),
+    CANCEL_CREATING_EVENT("CANCEL_CREATING_EVENT"),
+    CONFIRM_CREATE_EVENT("CONFIRM_CREATE_EVENT"),
+    PARSE_EVENT("PARSE_EVENT");
+    private final String value;
     CallbackCommand(String cmd) {
         this.value = cmd;
-    }
-
-    public static CallbackCommand fromValue(String v) {
-        for (CallbackCommand c : CallbackCommand.values()) {
-            if (c.value.equals(v)) {
-                return c;
-            }
-        }
-
-        return null;
     }
 
     public String getCommandValue() {
