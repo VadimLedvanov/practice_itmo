@@ -29359,3 +29359,546 @@ javax.persistence.EntityNotFoundException: Пользователь не най�
 2025-05-03 17:23:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
 2025-05-03 17:23:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
 2025-05-03 17:23:56 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:18:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:01 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-03 18:35:09 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-03 18:35:13 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-03 18:35:21 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:39 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-03 18:35:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:50 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:53 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:35:53 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-03 18:36:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:36:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:36:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:36:08 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:36:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:58:16 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:58:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:58:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:58:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 18:58:45 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 20:53:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 20:53:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 20:53:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 20:53:40 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-03 20:53:41 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:20:22 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:20:22 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:20:22 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:24:22 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:26:39 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:27:56 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:28:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:32 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:28:33 ERROR ConsumerServiceImpl:38 - java.lang.IllegalArgumentException: bound must be positive
+2025-05-07 22:28:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:29:40 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:31:20 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:31:55 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:33:36 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:34:36 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:35:40 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:35:41 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:43:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:43:21 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:44:00 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:47:08 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:51:01 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 22:52:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:53:32 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:53:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:54:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:54:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:54:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:54:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:54:32 INFO  EventScheduler:54 - Получено 20 событий по категории exhibition.
+2025-05-07 22:54:32 ERROR EventScheduler:138 - ⚠ Ошибка при получении данных: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2025-05-07 22:54:33 INFO  EventScheduler:54 - Получено 20 событий по категории cinema.
+2025-05-07 22:54:33 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории cinema
+2025-05-07 22:54:34 INFO  EventScheduler:54 - Получено 20 событий по категории concert.
+2025-05-07 22:54:34 ERROR EventScheduler:138 - ⚠ Ошибка при получении данных: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2025-05-07 22:54:37 INFO  EventScheduler:54 - Получено 20 событий по категории theater.
+2025-05-07 22:54:37 ERROR EventScheduler:138 - ⚠ Ошибка при получении данных: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2025-05-07 22:54:37 INFO  EventScheduler:54 - Получено 20 событий по категории business-events.
+2025-05-07 22:54:37 ERROR EventScheduler:138 - ⚠ Ошибка при получении данных: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2025-05-07 22:54:41 INFO  EventScheduler:54 - Получено 20 событий по категории tour.
+2025-05-07 22:54:41 ERROR EventScheduler:138 - ⚠ Ошибка при получении данных: org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+2025-05-07 22:58:30 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:58:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:58:32 INFO  EventScheduler:54 - Получено 20 событий по категории exhibition.
+2025-05-07 22:58:32 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории exhibition
+2025-05-07 22:58:33 INFO  EventScheduler:54 - Получено 20 событий по категории cinema.
+2025-05-07 22:58:33 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории cinema
+2025-05-07 22:58:34 INFO  EventScheduler:54 - Получено 20 событий по категории concert.
+2025-05-07 22:58:34 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории concert
+2025-05-07 22:58:36 INFO  EventScheduler:54 - Получено 20 событий по категории theater.
+2025-05-07 22:58:37 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории theater
+2025-05-07 22:58:37 INFO  EventScheduler:54 - Получено 20 событий по категории business-events.
+2025-05-07 22:58:37 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории business-events
+2025-05-07 22:58:40 INFO  EventScheduler:54 - Получено 20 событий по категории tour.
+2025-05-07 22:58:40 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории tour
+2025-05-07 22:59:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:59:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 22:59:52 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:00:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:01:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:01:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:01:54 ERROR ConsumerServiceImpl:38 - javax.persistence.EntityNotFoundException: Пользователь не найден
+2025-05-07 23:02:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:14 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-07 23:02:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:50 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:53 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:02:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:13 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:17 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:17 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-07 23:03:19 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:22 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:03:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:04:40 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:06:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:17 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:10:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:19 INFO  EventScheduler:54 - Получено 20 событий по категории exhibition.
+2025-05-07 23:10:19 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории exhibition
+2025-05-07 23:10:20 INFO  EventScheduler:54 - Получено 20 событий по категории cinema.
+2025-05-07 23:10:20 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории cinema
+2025-05-07 23:10:22 INFO  EventScheduler:54 - Получено 20 событий по категории concert.
+2025-05-07 23:10:22 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории concert
+2025-05-07 23:10:24 INFO  EventScheduler:54 - Получено 20 событий по категории theater.
+2025-05-07 23:10:24 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории theater
+2025-05-07 23:10:24 INFO  EventScheduler:54 - Получено 20 событий по категории business-events.
+2025-05-07 23:10:25 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории business-events
+2025-05-07 23:10:28 INFO  EventScheduler:54 - Получено 20 событий по категории tour.
+2025-05-07 23:10:28 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории tour
+2025-05-07 23:10:30 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:10:37 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:11:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:11:06 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-07 23:12:21 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:22 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:50 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:12:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:13:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:13:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:14:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:15:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:16:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:16:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:16:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:16:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:16:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:17:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:18:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:18:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:18:14 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:18:40 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:19:02 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:21:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:21:20 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:21:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:22:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:22:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:22:45 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:22:55 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:23:03 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:23:12 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:23:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:23:15 ERROR ConsumerServiceImpl:38 - java.util.MissingFormatArgumentException: Format specifier '%s'
+2025-05-07 23:25:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:25:06 ERROR ConsumerServiceImpl:38 - java.util.MissingFormatArgumentException: Format specifier '%s'
+2025-05-07 23:27:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:27:44 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:27:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:27:55 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:28:01 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:28:09 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:28:18 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:28:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:28:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:28:46 ERROR ConsumerServiceImpl:38 - java.time.format.DateTimeParseException: Text '18.05.2025' could not be parsed at index 0
+2025-05-07 23:29:32 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:29:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:29:38 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:31:43 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:45 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:31:52 INFO  EventScheduler:54 - Получено 20 событий по категории exhibition.
+2025-05-07 23:31:52 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории exhibition
+2025-05-07 23:31:53 INFO  EventScheduler:54 - Получено 20 событий по категории cinema.
+2025-05-07 23:31:53 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории cinema
+2025-05-07 23:31:55 INFO  EventScheduler:54 - Получено 20 событий по категории concert.
+2025-05-07 23:31:55 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории concert
+2025-05-07 23:31:58 INFO  EventScheduler:54 - Получено 20 событий по категории theater.
+2025-05-07 23:31:58 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории theater
+2025-05-07 23:31:58 INFO  EventScheduler:54 - Получено 20 событий по категории business-events.
+2025-05-07 23:31:58 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории business-events
+2025-05-07 23:32:02 INFO  EventScheduler:54 - Получено 20 событий по категории tour.
+2025-05-07 23:32:02 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории tour
+2025-05-07 23:32:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:32:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:32:13 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:32:16 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:39:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:39:37 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:42:59 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:43:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:04 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:45:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:13 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:17 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:45:57 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:46:55 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:47:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:47:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:47:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:47:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:49:57 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:50:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:31 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-07 23:50:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:41 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:50:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:12 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-07 23:57:17 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:19 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:50 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:56 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:57:57 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-07 23:58:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-07 23:58:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:05:22 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:05:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:05:34 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:05:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:05:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:05:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:15:58 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:16:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:22 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:45 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:16:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:17 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:38 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:17:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:17:57 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:17:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:18:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:20:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:26:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:23 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:27:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:28 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:32 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:34 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:54 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:27:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:27:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:28:00 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:28:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:28:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:32:32 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:34:10 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:34:16 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:52 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:34:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:35:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:35:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:35:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:35:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:42:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:42:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:42:43 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 00:42:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:03 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:24 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:43:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:43:49 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:43:59 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:09 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:44:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:16 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:22 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:28 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:44:42 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:28 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:37 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:56 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:45:59 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:16 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:28 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:37 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:40 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:42 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:46:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:49:42 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:08 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:11 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:50:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:34 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:37 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:43 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:50:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:08 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:21 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:24 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:30 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:51:38 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 00:51:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:54:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:54:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:54:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:08 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:10 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:38 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:40 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:55:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 00:57:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:01:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:01:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:07:39 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:07:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:07:52 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:08:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:10:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:10:42 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:37:02 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 01:37:05 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:21 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:00:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:01 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:06 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:12 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:14 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 02:01:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:18:45 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 03:18:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:18:53 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:18:55 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:45:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:45:04 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 03:45:09 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 03:45:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:00:07 INFO  EventScheduler:54 - Получено 20 событий по категории exhibition.
+2025-05-08 09:00:07 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории exhibition
+2025-05-08 09:00:08 INFO  EventScheduler:54 - Получено 20 событий по категории cinema.
+2025-05-08 09:00:08 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории cinema
+2025-05-08 09:00:10 INFO  EventScheduler:54 - Получено 20 событий по категории concert.
+2025-05-08 09:00:10 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории concert
+2025-05-08 09:00:12 INFO  EventScheduler:54 - Получено 20 событий по категории theater.
+2025-05-08 09:00:12 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории theater
+2025-05-08 09:00:12 INFO  EventScheduler:54 - Получено 20 событий по категории business-events.
+2025-05-08 09:00:12 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории business-events
+2025-05-08 09:00:16 INFO  EventScheduler:54 - Получено 20 событий по категории tour.
+2025-05-08 09:00:16 INFO  EventScheduler:134 - ✅ В базу данных успешно сохранено 20 событий по категории tour
+2025-05-08 09:55:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:31 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:45 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 09:55:54 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:35:18 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:44:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:44:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:44:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:44:23 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 11:44:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 12:49:27 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 12:49:32 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 12:53:57 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:18:25 DEBUG ConsumerServiceImpl:27 - NODE: Text message is received
+2025-05-08 13:18:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:18:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:18:49 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:18:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:18:58 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:04 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:07 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:08 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:11 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:15 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:20 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:27 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:29 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:33 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:19:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:25 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:26 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:35 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:36 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:44 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:20:50 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:26:43 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:26:46 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:26:47 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:26:48 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received
+2025-05-08 13:26:48 INFO  MainServiceImpl:451 - Мероприятие добавлено в список просмотренных
+2025-05-08 13:26:51 DEBUG ConsumerServiceImpl:34 - NODE: Callback message is received

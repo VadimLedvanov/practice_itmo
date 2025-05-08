@@ -22,15 +22,15 @@ public class Event {
     @GeneratedValue(generator = "uuid-hibernate-generator")
     @GenericGenerator(name = "uuid-hibernate-generator", strategy = "org.hibernate.id.UUIDGenerator")
     private UUID id;
-    @Column(name = "name")
+    @Column(name = "name", length = 500)
     private String name;
-    @Column(name = "location")
+    @Column(name = "location", length = 500)
     private String location;
     @Column(name = "start_date")
     private LocalDate startDate;
     @Column(name = "start_time")
     private LocalTime startTime;
-    @Column(name = "description")
+    @Column(name = "description", length = 500)
     private String description;
     @Enumerated(EnumType.STRING)
     @Column(name = "category", nullable = false)

@@ -34,19 +34,13 @@ public class KeyboardFactory {
         keyboard.add(row3);
         keyboard.add(row4);
 
-        if (!isAdmin) {
-            List<InlineKeyboardButton> row5 = new ArrayList<>();
-            row5.add(createButton("⚙ Обо мне", INFO.getCommandValue()));
-            keyboard.add(row5);
-        }
-
         if (isAdmin) {
             List<InlineKeyboardButton> row6 = new ArrayList<>();
             row6.add(createButton("➕\uD83D\uDCC5 Добавить мероприятие", CREATE_EVENT.getCommandValue()));
             keyboard.add(row6);
 
             List<InlineKeyboardButton> row7 = new ArrayList<>();
-            row7.add(createButton("\uD83D\uDCCA\uD83D\uDC65 Аналитика по пользователям", USERS_ANALYTICS.getCommandValue()));
+            row7.add(createButton("📊👥 Аналитика", USERS_ANALYTICS.getCommandValue()));
             keyboard.add(row7);
 
             List<InlineKeyboardButton> row8 = new ArrayList<>();

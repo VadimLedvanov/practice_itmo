@@ -143,7 +143,7 @@ public class MainServiceImpl implements MainService {
             output = START_MESSAGE;
             sendCallbackAnswer(chatId, output, getMainMenuKeyboard(isAdmin(chatId)));
         }
-//        }  else {
+//        } else {
 //            output = UNKNOWN_MESSAGE;
 //            sendTextAnswer(output, chatId);
 //        }
@@ -275,7 +275,7 @@ public class MainServiceImpl implements MainService {
             eventDto.setCategory(category);
             eventDto.setCurrentStep(CONFIRM);
 
-             output = String.format(DETAILS_EVENT_MESSAGE,
+             output = String.format(CONFIRM_CREATE_EVENT_MESSAGE,
                      eventDto.getName(),
                      eventDto.getLocation(),
                      eventDto.getDate().format(dateFormat),
@@ -635,6 +635,7 @@ public class MainServiceImpl implements MainService {
         sendMessage.setChatId(chatId);
         sendMessage.setText(output);
         sendMessage.setReplyMarkup(markup);
+        sendMessage.setParseMode("HTML");
         producerService.producerAnswer(sendMessage);
     }
 
