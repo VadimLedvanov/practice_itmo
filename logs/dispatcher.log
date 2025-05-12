@@ -2906,3 +2906,484 @@
 2025-05-08 13:26:47 DEBUG UpdateProducerImpl:23 - produce callback query: NOT_VIEWED_EVENT_PAGE_0
 2025-05-08 13:26:48 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_6d5fa0af-b40b-4956-9fa7-b1f7ac347d4d_PAGE_0_NV
 2025-05-08 13:26:51 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 14:53:59 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 14:54:00 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:12:28 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:12:29 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:14:05 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-08 15:14:06 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 15:14:11 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 15:14:13 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:14:14 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:14:15 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT
+2025-05-08 15:14:16 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_1
+2025-05-08 15:14:16 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_dcf34739-cb43-4bec-a4fe-c4ac0b86551f_PAGE_114_NV
+2025-05-08 15:14:19 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:14:20 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:14:22 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:14:25 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-08 15:14:32 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_1
+2025-05-08 15:14:36 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:14:40 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:14:42 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 15:14:43 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS
+2025-05-08 15:14:47 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS_PAGE_1
+2025-05-08 15:14:52 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:14:55 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT
+2025-05-08 15:14:58 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS_PAGE_2
+2025-05-08 15:15:03 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:15:07 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-08 15:15:10 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:15:12 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_1
+2025-05-08 15:15:13 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 15:15:17 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_32d960f2-a020-4196-9389-57b457c30113_PAGE_1_NV
+2025-05-08 15:15:18 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_2
+2025-05-08 15:15:19 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:15:21 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_3
+2025-05-08 15:15:22 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-08 15:15:23 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_4
+2025-05-08 15:15:25 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_5
+2025-05-08 15:15:29 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_6
+2025-05-08 15:15:32 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_7
+2025-05-08 15:15:35 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_8
+2025-05-08 15:15:38 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_9
+2025-05-08 15:15:43 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_8
+2025-05-08 15:15:44 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_361a0bc7-d427-4653-a076-35acbbb8439d
+2025-05-08 15:15:47 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:15:51 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:15:52 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-08 15:15:58 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-08 15:16:02 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_2
+2025-05-08 15:16:04 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_3
+2025-05-08 15:16:08 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_4
+2025-05-08 15:16:12 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_5
+2025-05-08 15:16:20 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:17:52 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 15:17:57 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 15:18:02 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 15:18:13 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_7acdcf00-1b4d-4211-be25-f36f3f87898d_PAGE_138_NV
+2025-05-08 15:18:26 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:18:34 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 15:18:37 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-08 15:18:41 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_1
+2025-05-08 15:18:45 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_2
+2025-05-08 15:18:48 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_3
+2025-05-08 15:18:56 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_3c14e27d-6d14-4f87-9c5f-63770b84bbd5_PAGE_3_CAT
+2025-05-08 15:19:04 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_3
+2025-05-08 15:19:07 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_4
+2025-05-08 15:19:11 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_5
+2025-05-08 15:19:15 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_6
+2025-05-08 15:19:22 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_6b5fee13-2668-49de-9b48-c5e3f062af29_PAGE_6_CAT
+2025-05-08 15:19:27 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_6
+2025-05-08 15:19:31 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_6b5fee13-2668-49de-9b48-c5e3f062af29
+2025-05-08 15:19:37 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 15:19:39 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-08 15:19:44 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_1
+2025-05-08 16:15:39 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:15:42 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS
+2025-05-08 16:15:44 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:17:40 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-08 16:17:55 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:17:56 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 16:18:17 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:18:29 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-08 16:18:37 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-08 16:18:45 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_c57856ee-8c27-456b-9905-e817616269a3_PAGE_1_CAT
+2025-05-08 16:18:48 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-08 16:19:23 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 16:19:52 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:20:14 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 16:20:22 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-08 16:20:30 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:20:32 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-08 16:20:41 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-08 16:20:55 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-08 16:24:23 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_c57856ee-8c27-456b-9905-e817616269a3
+2025-05-08 16:24:27 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:24:30 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 16:24:37 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_5e71d17d-96ed-4816-a8d4-6a187e8eb30b
+2025-05-08 16:24:42 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:24:43 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-08 16:24:49 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:24:51 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:24:54 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_TOUR
+2025-05-08 16:25:04 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:34:30 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:35:37 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-08 16:35:43 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 16:38:26 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-08 16:38:41 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-08 16:39:16 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-08 17:08:23 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-08 17:08:26 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 17:08:28 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-08 17:52:52 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-08 17:53:06 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 13:43:09 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 13:43:19 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 13:43:58 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:44:15 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 13:44:17 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 13:44:34 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:44:36 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 13:44:38 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_3e9deb48-4940-47a2-bf21-9832149a76c5_PAGE_51_NV
+2025-05-10 13:44:41 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_3e9deb48-4940-47a2-bf21-9832149a76c5
+2025-05-10 13:44:44 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:44:46 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-10 13:44:48 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:44:50 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 13:44:54 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_0b65e0c1-580a-4b3d-9d87-96e61cfd334b_PAGE_0_NV
+2025-05-10 13:44:57 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_0b65e0c1-580a-4b3d-9d87-96e61cfd334b
+2025-05-10 13:45:05 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:45:06 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 13:45:07 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT
+2025-05-10 13:45:08 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_0b65e0c1-580a-4b3d-9d87-96e61cfd334b_PAGE_0_CAT
+2025-05-10 13:45:10 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT_PAGE_0
+2025-05-10 13:49:14 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_0b65e0c1-580a-4b3d-9d87-96e61cfd334b_PAGE_0_CAT
+2025-05-10 13:49:15 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:49:17 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 13:49:18 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_1b10479f-3786-4992-bcfb-b4e66a05c5a4_PAGE_57_NV
+2025-05-10 13:49:22 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:50:01 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 13:50:03 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 13:50:25 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 13:50:27 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 13:50:28 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_b06dc746-4218-44b1-88ff-6e51006c0979_PAGE_77_NV
+2025-05-10 14:00:49 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:00:52 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 14:00:53 DEBUG UpdateProducerImpl:23 - produce callback query: RELOAD
+2025-05-10 14:00:54 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:06:14 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:06:16 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:06:21 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:06:22 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:06:24 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:06:26 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:06:35 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_f1a44b62-5737-4add-a2a0-7de84ea3f7d1_PAGE_73_NV
+2025-05-10 14:11:21 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:11:23 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:11:36 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:11:38 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:12:18 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_31034511-f0e7-4e93-9a22-99af9f3e73b6_PAGE_77_NV
+2025-05-10 14:12:23 DEBUG UpdateProducerImpl:23 - produce callback query: RELOAD
+2025-05-10 14:12:24 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:12:26 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_ec7499f1-4aa7-40c8-b9f1-e4497aed246e_PAGE_82_NV
+2025-05-10 14:12:27 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:12:28 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:12:31 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_470bc77c-169e-495c-a7ea-c87869b07df6_PAGE_76_NV
+2025-05-10 14:20:19 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 14:20:21 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:21:37 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 14:21:41 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:21:57 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:21:58 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:22:00 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:22:02 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:51:40 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:51:42 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 14:51:43 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS
+2025-05-10 14:51:46 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:51:48 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 14:51:49 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_TOUR
+2025-05-10 14:51:52 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:51:57 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:52:00 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:52:05 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:58:11 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 14:58:12 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:58:49 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:59:10 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 14:59:30 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:59:33 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:59:42 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 14:59:44 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 14:59:47 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:01:25 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 15:01:41 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:01:43 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:01:45 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:02:17 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:02:19 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_TOUR
+2025-05-10 15:02:21 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_TOUR_PAGE_1
+2025-05-10 15:02:22 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_TOUR_PAGE_2
+2025-05-10 15:03:08 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:03:10 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:03:12 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-10 15:03:15 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_1
+2025-05-10 15:03:16 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_2
+2025-05-10 15:03:18 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_3
+2025-05-10 15:03:19 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_4
+2025-05-10 15:03:27 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:03:35 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 15:04:06 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:04:07 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:04:08 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-10 15:04:11 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_1
+2025-05-10 15:04:12 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_2
+2025-05-10 15:04:13 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_3
+2025-05-10 15:04:15 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_4
+2025-05-10 15:04:17 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_5
+2025-05-10 15:04:17 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_6
+2025-05-10 15:04:23 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_7
+2025-05-10 15:04:26 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_8
+2025-05-10 15:04:27 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION_PAGE_9
+2025-05-10 15:04:28 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:05:14 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-10 15:05:26 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:05:27 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:06:22 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:06:23 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:06:26 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:06:28 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:06:30 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:06:31 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:06:34 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:17:24 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:17:25 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:17:26 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 15:17:28 DEBUG UpdateProducerImpl:23 - produce callback query: RELOAD
+2025-05-10 15:19:21 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:19:23 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:19:50 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:20:09 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:20:26 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:20:36 ERROR UpdateProcessor:42 - Unsupported update received: Update(updateId=97631081, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=865790406, type=private, title=null, firstName=subjec1, lastName=null, userName=subjec1, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=865790406, firstName=subjec1, isBot=false, lastName=null, userName=subjec1, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1746879636, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-05-10 15:20:36 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:20:38 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:20:40 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 15:21:01 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-10 15:23:58 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:24:00 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:24:23 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 15:27:33 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:27:39 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-10 15:27:55 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_21bd24b5-09ee-42c9-8898-1de80e978a2e_PAGE_33_NV
+2025-05-10 15:27:56 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_21bd24b5-09ee-42c9-8898-1de80e978a2e
+2025-05-10 15:27:57 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:28:22 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:28:40 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:28:50 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:29:06 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_26906494-0a96-4950-ad61-96f9c86e7fe8
+2025-05-10 15:29:12 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:29:14 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-10 15:29:47 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:29:54 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:29:56 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 15:30:02 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-10 15:30:05 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_9e97c846-2d91-477c-bb9d-8e18a5de9147
+2025-05-10 15:32:40 ERROR UpdateProcessor:42 - Unsupported update received: Update(updateId=97631105, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=5019730637, type=private, title=null, firstName=Dima, lastName=null, userName=T_h_e_L_i_o_n, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=5019730637, firstName=Dima, isBot=false, lastName=null, userName=T_h_e_L_i_o_n, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1746880360, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-05-10 15:32:40 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:32:42 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 15:32:44 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:32:44 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS
+2025-05-10 15:32:47 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_7367e507-9b7d-437c-8b48-55d733e6880e_PAGE_0_CAT
+2025-05-10 15:32:48 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:32:50 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:33:06 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:33:14 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:33:18 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:33:19 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:33:20 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS
+2025-05-10 15:33:22 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_7367e507-9b7d-437c-8b48-55d733e6880e_PAGE_0_CAT
+2025-05-10 15:33:25 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_7367e507-9b7d-437c-8b48-55d733e6880e
+2025-05-10 15:33:27 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_BUSINESS_PAGE_0
+2025-05-10 15:33:30 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:34:46 ERROR UpdateProcessor:42 - Unsupported update received: Update(updateId=97631122, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=5019730637, type=private, title=null, firstName=Dima, lastName=null, userName=T_h_e_L_i_o_n, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=5019730637, firstName=Dima, isBot=false, lastName=null, userName=T_h_e_L_i_o_n, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1746880486, oldChatMember=ChatMemberMember(status=member, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-05-10 15:43:34 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:43:39 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:43:52 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:44:09 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_0c6a8c98-cb97-4621-8b33-6fe9907688c5_PAGE_39_NV
+2025-05-10 15:44:11 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_0c6a8c98-cb97-4621-8b33-6fe9907688c5
+2025-05-10 15:44:14 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:44:16 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:44:18 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:44:19 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 15:47:17 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:47:20 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 15:47:27 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:47:29 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-10 15:47:31 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-10 15:47:34 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_7dec4b41-d3b8-4905-8f40-5fde1d39a5d8_PAGE_1_CAT
+2025-05-10 15:47:37 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_7dec4b41-d3b8-4905-8f40-5fde1d39a5d8
+2025-05-10 15:48:33 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:48:41 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 15:48:45 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 15:48:58 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-10 15:49:03 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_2
+2025-05-10 15:49:14 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_3
+2025-05-10 15:49:21 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:49:25 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 15:50:59 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:51:02 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 15:51:05 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:51:07 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-10 15:51:11 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:51:11 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 15:51:11 ERROR TelegramBot:81 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText query: [400] Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-05-10 15:54:53 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 15:54:56 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 16:01:44 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 16:01:56 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 16:02:00 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 16:02:05 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-10 16:02:08 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_2
+2025-05-10 16:02:10 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_3
+2025-05-10 16:02:14 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_4
+2025-05-10 16:02:15 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_5
+2025-05-10 16:13:15 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 16:13:20 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 16:13:21 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-10 16:26:37 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-10 16:27:08 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 16:43:54 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 16:44:08 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-10 16:44:16 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 16:44:20 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-10 16:44:24 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 16:44:26 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 16:44:44 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 16:45:58 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 16:46:03 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-10 16:46:23 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-10 16:46:43 ERROR UpdateProcessor:42 - Unsupported update received: Update(updateId=97631178, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=1634731387, type=private, title=null, firstName=_ ПРОСТО_, lastName=ИРА _, userName=Ari_kul, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=1634731387, firstName=_ ПРОСТО_, isBot=false, lastName=ИРА _, userName=Ari_kul, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1746884803, oldChatMember=ChatMemberMember(status=member, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=7926211948, firstName=SpbGoBot, isBot=true, lastName=null, userName=spb_letsgo_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-05-10 16:53:45 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-10 16:58:52 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-10 16:58:56 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-10 16:58:57 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA
+2025-05-10 16:59:05 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_1
+2025-05-10 16:59:07 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CINEMA_PAGE_2
+2025-05-10 16:59:08 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_b84aad57-5a81-47eb-8deb-2be905179b6a_PAGE_2_CAT
+2025-05-12 22:20:14 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 22:20:19 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 22:21:30 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 22:21:33 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 22:21:35 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-12 22:21:42 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-12 22:21:44 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_2
+2025-05-12 22:21:46 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_3
+2025-05-12 22:22:40 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_c4dab4a6-b98e-49a5-9622-e45583940d19_PAGE_3_CAT
+2025-05-12 22:23:25 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_3
+2025-05-12 22:23:26 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_c4dab4a6-b98e-49a5-9622-e45583940d19
+2025-05-12 22:24:18 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_c4dab4a6-b98e-49a5-9622-e45583940d19
+2025-05-12 22:25:13 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 22:25:16 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-12 22:25:17 DEBUG UpdateProducerImpl:23 - produce callback query: DELETE_FAV_c4dab4a6-b98e-49a5-9622-e45583940d19
+2025-05-12 23:23:03 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:23:13 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:23:20 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:25:54 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:25:59 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:26:13 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:26:15 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:26:17 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-12 23:26:21 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-12 23:26:24 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_de6643f4-d8da-4f66-8662-f0488189681f_PAGE_1_CAT
+2025-05-12 23:26:25 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_1
+2025-05-12 23:26:41 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER_PAGE_2
+2025-05-12 23:26:43 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:26:45 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-12 23:26:49 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:26:50 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:26:53 DEBUG UpdateProducerImpl:23 - produce callback query: RELOAD
+2025-05-12 23:26:55 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:27:52 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:27:56 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:27:57 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:27:58 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:27:59 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:28:01 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:28:03 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:28:04 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:28:55 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:28:56 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:28:57 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_CONCERT
+2025-05-12 23:29:03 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_ee6ce3c5-bf22-4932-9133-668a8b415eb6_PAGE_0_CAT
+2025-05-12 23:29:13 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_ee6ce3c5-bf22-4932-9133-668a8b415eb6
+2025-05-12 23:29:15 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_ee6ce3c5-bf22-4932-9133-668a8b415eb6
+2025-05-12 23:29:18 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:29:20 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:29:22 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_c5f9cc1d-3dcc-4f5d-9879-dc1254cd15de_PAGE_38_NV
+2025-05-12 23:29:25 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:29:26 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:29:28 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_EXHIBITION
+2025-05-12 23:29:29 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_3df40bd8-524b-4514-8951-60b186fd57db_PAGE_0_CAT
+2025-05-12 23:29:31 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_3df40bd8-524b-4514-8951-60b186fd57db
+2025-05-12 23:29:33 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:29:34 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-12 23:29:36 DEBUG UpdateProducerImpl:23 - produce callback query: NOT_VIEWED_EVENT_PAGE_1
+2025-05-12 23:29:38 DEBUG UpdateProducerImpl:23 - produce callback query: RELOAD
+2025-05-12 23:30:10 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:30:14 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:31:05 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:31:28 ERROR TelegramBot:71 - Error executing org.telegram.telegrambots.meta.api.methods.AnswerCallbackQuery query: [400] Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-05-12 23:31:39 ERROR TelegramBot:71 - Error executing org.telegram.telegrambots.meta.api.methods.AnswerCallbackQuery query: [400] Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-05-12 23:31:48 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:31:51 ERROR TelegramBot:81 - Error executing org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText query: [400] Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-05-12 23:31:59 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-12 23:32:02 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:32:53 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:33:06 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:33:30 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:33:32 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:33:35 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-12 23:33:56 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_edf0b5cb-cdb5-45fa-8081-2f6a36894a35_PAGE_0_CAT
+2025-05-12 23:33:58 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_edf0b5cb-cdb5-45fa-8081-2f6a36894a35
+2025-05-12 23:34:00 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_edf0b5cb-cdb5-45fa-8081-2f6a36894a35
+2025-05-12 23:34:02 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:34:04 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-12 23:34:10 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_7ab1254a-6d05-4f15-aebd-72602ff7063d
+2025-05-12 23:34:12 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:34:13 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:34:18 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_efdc29a3-e362-42f8-8195-c327364b2ccf_PAGE_6_NV
+2025-05-12 23:34:20 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_efdc29a3-e362-42f8-8195-c327364b2ccf
+2025-05-12 23:34:21 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:34:22 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-12 23:34:24 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_1
+2025-05-12 23:34:26 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_2
+2025-05-12 23:34:27 DEBUG UpdateProducerImpl:23 - produce callback query: DELETE_FAV_efdc29a3-e362-42f8-8195-c327364b2ccf
+2025-05-12 23:34:30 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-12 23:34:33 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_edf0b5cb-cdb5-45fa-8081-2f6a36894a35_PAGE_0_FAV
+2025-05-12 23:34:34 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_0
+2025-05-12 23:34:35 DEBUG UpdateProducerImpl:23 - produce callback query: DELETE_FAV_edf0b5cb-cdb5-45fa-8081-2f6a36894a35
+2025-05-12 23:34:39 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-12 23:34:45 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:34:46 DEBUG UpdateProducerImpl:23 - produce callback query: ANNOUNCE
+2025-05-12 23:34:50 DEBUG UpdateProducerImpl:21 - produce message: Текст!
+2025-05-12 23:34:56 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:35:10 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:35:11 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-12 23:35:13 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:35:15 DEBUG UpdateProducerImpl:23 - produce callback query: CREATE_EVENT
+2025-05-12 23:35:21 DEBUG UpdateProducerImpl:23 - produce callback query: CANCEL_CREATING_EVENT
+2025-05-12 23:35:31 DEBUG UpdateProducerImpl:23 - produce callback query: CREATE_EVENT
+2025-05-12 23:35:37 DEBUG UpdateProducerImpl:23 - produce callback query: CANCEL_CREATING_EVENT
+2025-05-12 23:36:17 DEBUG UpdateProducerImpl:21 - produce message: /start
+2025-05-12 23:36:19 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_category
+2025-05-12 23:36:21 DEBUG UpdateProducerImpl:23 - produce callback query: CATEGORY_THEATER
+2025-05-12 23:36:43 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_edf0b5cb-cdb5-45fa-8081-2f6a36894a35_PAGE_0_CAT
+2025-05-12 23:36:44 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_edf0b5cb-cdb5-45fa-8081-2f6a36894a35
+2025-05-12 23:36:45 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_edf0b5cb-cdb5-45fa-8081-2f6a36894a35
+2025-05-12 23:36:50 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:36:51 DEBUG UpdateProducerImpl:23 - produce callback query: find_by_views
+2025-05-12 23:36:56 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_316a44ed-b7c9-46d2-a392-ab593c88c1f1_PAGE_0_NV
+2025-05-12 23:36:56 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_316a44ed-b7c9-46d2-a392-ab593c88c1f1
+2025-05-12 23:36:58 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:36:59 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:37:04 DEBUG UpdateProducerImpl:23 - produce callback query: DETAILS_f22abed4-9979-4cca-abb9-00e1546ac663_PAGE_4_NV
+2025-05-12 23:37:05 DEBUG UpdateProducerImpl:23 - produce callback query: add_to_favorite_f22abed4-9979-4cca-abb9-00e1546ac663
+2025-05-12 23:37:07 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:37:09 DEBUG UpdateProducerImpl:23 - produce callback query: favorite_event_list
+2025-05-12 23:37:11 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_1
+2025-05-12 23:37:12 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_2
+2025-05-12 23:37:13 DEBUG UpdateProducerImpl:23 - produce callback query: FAVORITE_PAGE_3
+2025-05-12 23:37:15 DEBUG UpdateProducerImpl:23 - produce callback query: DELETE_FAV_f22abed4-9979-4cca-abb9-00e1546ac663
+2025-05-12 23:37:17 DEBUG UpdateProducerImpl:23 - produce callback query: find_something
+2025-05-12 23:37:20 DEBUG UpdateProducerImpl:23 - produce callback query: DELETE_EVENT_f438f52c-e2bb-40b4-ad44-5abdd44b3012
+2025-05-12 23:37:24 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-12 23:37:27 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:37:29 DEBUG UpdateProducerImpl:23 - produce callback query: ANNOUNCE
+2025-05-12 23:37:32 DEBUG UpdateProducerImpl:21 - produce message: Объявление
+2025-05-12 23:37:35 DEBUG UpdateProducerImpl:23 - produce callback query: PARSE_EVENT
+2025-05-12 23:37:49 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main
+2025-05-12 23:37:50 DEBUG UpdateProducerImpl:23 - produce callback query: USERS_ANALYTICS
+2025-05-12 23:37:53 DEBUG UpdateProducerImpl:23 - produce callback query: back_to_main

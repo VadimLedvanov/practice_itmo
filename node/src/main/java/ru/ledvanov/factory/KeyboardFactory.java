@@ -191,8 +191,13 @@ public class KeyboardFactory {
         }
 
         List<InlineKeyboardButton> row2 = new ArrayList<>();
-        row2.add(createButton("🏠 В главное меню", BACK_TO_MAIN.getCommandValue()));
+        row2.add(createButton("⭐ В избранное", ADD_TO_FAVORITE.getCommandValue() + event.getId()));
+
+        List<InlineKeyboardButton> row3 = new ArrayList<>();
+        row3.add(createButton("🏠 В главное меню", BACK_TO_MAIN.getCommandValue()));
+
         keyboard.add(row2);
+        keyboard.add(row3);
 
         return new InlineKeyboardMarkup(keyboard);
     }

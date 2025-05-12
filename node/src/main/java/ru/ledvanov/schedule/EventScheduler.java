@@ -115,7 +115,7 @@ public class EventScheduler {
                             break;
                     }
 
-                    eventDAO.save(Event.builder()
+                    Event event = Event.builder()
                             .name(title)
                             .location(location)
                             .startDate(startDate)
@@ -125,14 +125,17 @@ public class EventScheduler {
                             .lat(lat)
                             .lon(lon)
                             .siteUrl(siteUrl)
-                            .build());
+                            .build();
 
-                    count++;
+                    if (event.getStartDate() != null && !event.getStartDate().isBefore(LocalDate.now())) {
+                        eventDAO.save(event);
+                        count++;
+                    }
                 }
             }
             if (response != null && response.results != null) {
-                log.info(String.format("✅ В базу данных успешно сохранено %d событий по категории %s", response.results.size(), category));
-                result = String.format("✅ В базу данных успешно сохранено %d событий по категории %s", response.results.size(), category);
+                log.info(String.format("✅ В базу данных успешно сохранено %d событий по категории %s", count, category));
+                result = String.format("✅ В базу данных успешно сохранено %d событий по категории %s", count, category);
             }
         } catch (Exception e) {
             log.error("⚠ Ошибка при получении данных: " + e);

@@ -28,7 +28,8 @@ public class TextMessage {
                     "🗓 <code>Время: %s</code>\n\n" +
                     "📂 <code>Категория: %s</code>\n\n" +
                     "\uD83D\uDD17 <code>Ссылка на источник: </code>%s\n\n" +
-                    "\uD83D\uDCCD <code>Геопозиция: </code>%s\n\n";
+                    "🗺️ <code>Yandex-геолокация: </code>%s\n\n" +
+                    "🗺️ <code>Google-геолокация: </code>%s\n\n";
 
     public static final String DETAILS_EVENT_MESSAGE =
             "🎭 <b>Мероприятие:</b>\n\n" +
@@ -38,7 +39,8 @@ public class TextMessage {
                     "🗓 <code>Время: %s</code>\n\n" +
                     "📂 <code>Категория: %s</code>\n\n" +
                     "\uD83D\uDD17 <code>Ссылка на источник: </code>%s\n\n" +
-                    "\uD83D\uDCCD <code>Геопозиция: </code>%s\n\n" +
+                    "🗺️ <code>Yandex-геолокация: </code>%s\n\n" +
+                    "🗺️ <code>Google-геолокация: </code>%s\n\n" +
                     "📖 <code>Описание: %s</code>";
 
     public static final String RANDOM_EVENT_MESSAGE =
@@ -49,7 +51,8 @@ public class TextMessage {
                     "🗓 <code>Время: %s</code>\n\n" +
                     "📂 <code>Категория: %s</code>\n\n" +
                     "\uD83D\uDD17 <code>Ссылка на источник: </code>%s\n\n" +
-                    "\uD83D\uDCCD <code>Геопозиция: </code>%s\n\n";
+                    "🗺️ <code>Yandex-геолокация: </code>%s\n\n" +
+                    "🗺️ <code>Google-геолокация: </code>%s\n\n";
 
     public static final String UNKNOWN_MESSAGE =
             "Список доступных команд:\n" +

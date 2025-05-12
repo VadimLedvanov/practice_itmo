@@ -304,9 +304,10 @@ public class MainServiceImpl implements MainService {
 
             sendTextAnswer(ENTER_ANNOUNCE_TEXT, chatId);
         } else if (callbackData.equals(PARSE_EVENT.getCommandValue())) {
+            sendAlertCallbackAnswer(update.getCallbackQuery().getId(), START_PROCESS);
+
             output = eventScheduler.getEvents();
 
-            sendAlertCallbackAnswer(update.getCallbackQuery().getId(), START_PROCESS);
             sendEditMessageCallbackAnswer(chatId, messageId, output, goToMainKeyboard());
         } else if (callbackData.startsWith(DELETE_EVENT.getCommandValue())) {
             UUID eventId = UUID.fromString(callbackData.replace(DELETE_EVENT.getCommandValue(), ""));
@@ -583,6 +584,15 @@ public class MainServiceImpl implements MainService {
         return "-";
     }
 
+    private String getYandexMapPosition(String lat, String lon) {
+        if (!lat.isEmpty() && !lon.isEmpty()) {
+            String GEOPOSITION_LINK = "https://yandex.ru/maps/?pt=%s,%s&z=18&l=map";
+            return String.format(GEOPOSITION_LINK, lon, lat);
+        }
+
+        return "-";
+    }
+
     private Page<Favorite> searchFavoriteEvents(AppUser appUser, int page) {
         Pageable pageable = PageRequest.of(page, 1);
         return favoriteDAO.findByAppUser(appUser, pageable);
@@ -676,6 +686,7 @@ public class MainServiceImpl implements MainService {
         args.add(event.getStartTime() != null ? event.getStartTime().format(timeFormat) : "-");
         args.add(event.getCategory().getCategoryName());
         args.add(event.getSiteUrl());
+        args.add(getYandexMapPosition(event.getLat(), event.getLon()));
         args.add(getGoogleMapPosition(event.getLat(), event.getLon()));
 
         if (includeDescription) {
